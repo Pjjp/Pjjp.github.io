@@ -1,0 +1,65 @@
+body
+{
+	background-color: #191B1E;
+    color: #fff !important;
+}
+
+.brn-answers 
+{
+     background-color: #31353B !important;
+ 	 color: white;
+}
+
+.sg-layout__container 
+{
+     background-color: #31353B !important;
+ 	 color: white;
+}
+
+.sg-layout__box
+{
+     background-color: #31353B !important;
+     color: white;
+}
+
+.sg-actions-list__hole
+{
+     background-color: #31353B !important;
+     color: white;
+}
+
+.brn-comments
+{
+     background-color: #31353B !important;
+     color: white;
+}
+
+.brn-text-line 
+{
+     background-color: #31353B !important;
+     color: white;
+}
+
+.sg-textarea 
+{
+     background-color: #31353B !important;
+     color: white;
+}
+
+.sg-text 
+{
+     color: white;
+}
+
+.latex-formula
+{
+     -webkit-filter: invert(100%); filter: none;
+}
+
+img
+{
+   -webkit-filter: invert(100%); filter: none;
+}
+
+
+
